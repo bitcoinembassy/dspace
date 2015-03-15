@@ -339,7 +339,7 @@
                         </button>
 
                         <a href="{$context-path}/" class="navbar-brand">
-                            <img src="{$theme-path}images/Crypto-Library-logo.png" />
+                          Crypto Library
                         </a>
 
 
